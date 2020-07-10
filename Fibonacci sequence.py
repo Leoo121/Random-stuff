@@ -1,4 +1,4 @@
-number = int(input("Enter a number: ")) #The code will run until the sequence becomes larger than the inputted value
+number = int(input("Enter a number: ")) #The code will run until the sequence becomes larger than this inputted value
 
 fib1 = 0
 fib2 = 1
